@@ -119,14 +119,16 @@ def explanation_page():
     st.title("About the Prediction Model")
     st.write("""
     ## How the Model Works
-    
-    
-    - The **Model** is trained with SARIMA Algorithm packaged in Pickel File.
-    - **Model Training**: the model was trained on the provided Data from an existing model.
-    - **Predictions**: Describe how the model makes predictions and how costs impact these predictions.
-    - **Use Case**: Discuss the specific use case of your model in context.
 
-    Feel free to add more information, including diagrams or external links for users who might want to learn more.
+    **Currently Under preparation**
+    
+    
+    # - The **Model** is trained with SARIMA Algorithm packaged in Pickel File.
+    # - **Model Training**: the model was trained on the provided Data from an existing model.
+    # - **Predictions**: Describe how the model makes predictions and how costs impact these predictions.
+    # - **Use Case**: Discuss the specific use case of your model in context.
+
+    # Feel free to add more information, including diagrams or external links for users who might want to learn more.
     """)
 
 # Sidebar navigation
